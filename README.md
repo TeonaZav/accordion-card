@@ -32,4 +32,5 @@ Also:
 
 ## URL
 
-https://accordion-card-t.netlify.app/
+https://accordion-card-t.netlify.app/  <br> 
+https://teonazav.github.io/accordion-card/
